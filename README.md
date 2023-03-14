@@ -11,7 +11,6 @@ I am mainly using this lab for my own practice as I want to completely grasp the
 <h2>What is needed for this Lab:</h2>
 
 - <b>VirtualBox</b> 
-- <b>VirtualBox extention pack</b>
 - <b>Windows Server 2019 ISO</b>
 - <b>Windows 10 ISO</b> 
 
