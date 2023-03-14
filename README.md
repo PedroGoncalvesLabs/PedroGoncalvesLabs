@@ -22,12 +22,12 @@ I am mainly using this lab for my own practice as I want to completely grasp the
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src= C:\Users\pdgon\Desktop\IT Projects\Active Directory Project\Diagrams and Walkthrough\1.jpg height="80%" width="80%" alt="Virtual box"/>
+Network Diagram: <br/>
+<img src= "https://i.imgur.com/0QRNlHo.jpg" height="80%" width="80%" alt="Network Diagram"/>
 <br />
-<br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p align="center">
+VM with both Machines:  <br/>
+<img src="https://i.imgur.com/pXJlOPC.jpeg" height="80%" width="80%" alt="VM Machines"/>
 <br />
 <br />
 Enter the number of passes: <br/>
