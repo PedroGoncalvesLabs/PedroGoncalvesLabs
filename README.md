@@ -18,13 +18,18 @@ I am mainly using this lab for my own practice as I want to completely grasp the
 <h2>Environment</h2>
 
 
-<h2>Program walk-through:</h2>
+<h2>Walk-through:</h2>
 
 <p align="center">
 Network Diagram: <br/>
 <img src= "https://i.imgur.com/0QRNlHo.jpg" height="80%" width="80%" alt="Network Diagram"/>
 <br />
+
+<h2>Environment: VirtualBox</h2>
 <p align="center">
+
+
+
 <br />
 I started by opening Virtual box and select new to create my 1st virtual machine.  <br/>
 <img src="https://imgur.com/DlHnG5N.png" height="80%" width="80%" alt="VM Machines"/>
@@ -43,7 +48,12 @@ DC 1st Network adapter will be using NAT.  <br/>
 DC 2nd Network adapter will be Internal.  <br/>
 <img src="https://imgur.com/S91X7QH.png" height="80%" width="80%" alt="2nd network adapter"/>
 <br />
+
+<h2>Environment: Windows Server 2019</h2>
 <p align="center">
+
+
+
 <br />
 Windows 2019 installation. <br/>
 <img src="https://imgur.com/1KBFJdM.png" height="80%" width="80%" alt="W2019 install"/>
@@ -53,7 +63,7 @@ Windows 2019 installation. <br/>
 Logged as Administrator.  <br/>
 <img src="https://imgur.com/ipYRgJo.png" height="80%" width="80%" alt="Logged as Administrator."/>
 <p align="center">
-After log in I went to Network Connections to Identify my 2 adapters.
+After log in I went to Network Connections to Identify my 2 adapters.<br/>
 As you can observe this is my 1st adapter that is using NAT.<br/>
 <img src="https://imgur.com/h15dUMJ.png" height="80%" width="80%" alt="1st adapter"/>
 <p align="center">
