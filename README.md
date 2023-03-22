@@ -112,7 +112,7 @@ In the same Organizational Unit, I created an account for an Admin.  <br/>
 <br/>
  
 <p align="center"> 
-Setting up this User account as a "Domain Admins" member.  <br/>
+Setting up this account as a "Domain Admins" member.  <br/>
 <img src="https://imgur.com/agW9IEd.png" height="80%" width="80%" alt="User account as a Domain Admins member"/>
 <br/>
  
