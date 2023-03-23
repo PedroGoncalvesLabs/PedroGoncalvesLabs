@@ -1,7 +1,7 @@
 <h1>Hi, I'm Pedro! <br/><a href="https://github.com/joshmadakor1">Content Creator</a>, <a href="https://www.linkedin.com/in/joshmadakor/">IT Support</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
 <h2>📜 IT Certification:</h2>
-- [CompTIA A+](https://imgur.com/c4kUuVi.png)
+- [CompTIA A+]
 
 
 <h2>👨‍💻 IT Projects:</h2>
