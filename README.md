@@ -24,6 +24,6 @@
 
 
 [youtube]: https://www.youtube.com/@PedroDGoncalves
-[instagram]:
-[linkedin]:
+[instagram]: 
+[linkedin]: 
 
