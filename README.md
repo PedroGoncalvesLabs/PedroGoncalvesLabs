@@ -13,7 +13,7 @@
 
 <h2>📺YouTube Videos</h2>
 
-- [How to create a simple Active Directory Home Lab (Tutorial)](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [How to create a simple Active Directory Home Lab (Tutorial)](https://youtu.be/WgevmR2GDJQ)
 
 
 <h2> 🤳 Connect with me:</h2>
