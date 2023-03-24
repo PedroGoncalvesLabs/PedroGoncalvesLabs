@@ -24,7 +24,7 @@
 
 
 [youtube]: https://www.youtube.com/@PedroDGoncalves
-[linkedin]: linkedin.com/in/pedro-gonçalves-20693726b
+[linkedin]: https://www.linkedin.com/in/pedro-gonçalves-20693726b
 [instagram]:
 
 <!--
