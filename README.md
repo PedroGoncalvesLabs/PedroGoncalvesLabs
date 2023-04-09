@@ -1,4 +1,4 @@
-<h1>Hi, I'm Pedro! <br/><a href="https://github.com/joshmadakor1">Content Creator</a>, <a href="https://www.linkedin.com/in/joshmadakor/">IT Support</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Pedro! <br/><a href="https://github.com/joshmadakor1">Content Creator</a>, <a href="https://www.linkedin.com/in/joshmadakor/">IT Support</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTube</a></h1>
 
 <h2>📜 IT Certifications:</h2>
 - <b/> CompTIA A+ (https://imgur.com/3244Vbt.png) </b>
