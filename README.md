@@ -1,7 +1,7 @@
 <h1>Hi, I'm Pedro! <br/><a href="https://github.com/PedroGoncalvesLabs">Content Creator</a>, <a href="https://www.linkedin.com/in/pedro-gonçalves-20693726b">IT Support</a>, <a href="https://www.youtube.com/@PedroDGoncalves">YouTube</a></h1>
 
 <h2>📜 IT Certifications:</h2>
-- <b/> CompTIA A+ (https://imgur.com/3244Vbt.png) </b>
+- <b/> [CompTIA A+](https://imgur.com/3244Vbt.png) </b>
 
 
 <h2>👨‍💻 IT Projects:</h2>
