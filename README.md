@@ -2,7 +2,7 @@
 
 <h2>📜 IT Certifications:</h2>
 
-- [CompTIA A+]("https://imgur.com/3244Vbt.png")
+- [CompTIA A+](https://imgur.com/3244Vbt.png)
 
 
 <h2>👨‍💻 IT Projects:</h2>
