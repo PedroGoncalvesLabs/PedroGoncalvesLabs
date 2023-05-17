@@ -1,4 +1,4 @@
-<h1>Hi, I'm Pedro! <br/><a href="https://www.linkedin.com/in/pedro-gonçalves-20693726b">IT Support</a>
+<h1>Hi, I'm Pedro! <br/><a href="https://www.linkedin.com/in/pedro-gonçalves-20693726b">Junior IT Support</a>
 <h2>📜 IT Certifications:</h2>
 
 - [CompTIA A+](https://imgur.com/3244Vbt.png)
